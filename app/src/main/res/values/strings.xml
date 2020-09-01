@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoPosilatel</string>
+    <string name="to">Представьтесь</string>
+    <string name="name">Имя</string>
+    <string name="go">Go!</string>
+    <string name="posil">"Пошел нахуй, " </string>
+</resources>
